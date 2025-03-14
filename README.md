@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning **Data Science and Full Stack Development**
 
-💬 Ask me about **Python, Javascript and Data Preprocessing**
+💬 Ask me about **Python, Javascript and Data Science**
 
 📫 How to reach me **sandeshyesane@hotmail.com**
 
