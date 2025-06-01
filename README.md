@@ -6,7 +6,7 @@
 
 🎓 Final Year Computer Engineering Student at University of Mumbai
 
-🌱 I’m currently learning **Data Science and Cybersecurity **
+🌱 I’m currently learning **Data Science and Cybersecurity**
 
 💬 Ask me about **Python, Javascript and Data Science**
 
