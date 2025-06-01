@@ -1,16 +1,16 @@
 <h1 align="center">Hey👋, I'm Sandesh</h1>
-<h3 align="center">A passionate Full Stack Developer and Data Science enthusiast from India</h3>
+<h3 align="center">A passionate ***Full Stack Developer*** and ***Data Science*** enthusiast from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandesh30-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="sandesh30-cloud" /> </p
 
-🎓 Final Year Computer Engineering Student at University of Mumbai
+🎓 Final Year ***Computer Engineering*** Student at University of Mumbai
 
-🌱 I’m currently learning **Data Science and Cybersecurity**
+🌱 I’m currently learning ***Data Science and Cybersecurity***
 
 💬 Ask me about **Python, Javascript and Data Science**
 
-📫 How to reach me **sandeshyesane@hotmail.com**
+📫 How to reach me ***sandeshyesane@hotmail.com***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
