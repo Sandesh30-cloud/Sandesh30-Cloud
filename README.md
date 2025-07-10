@@ -10,7 +10,7 @@
 
 💬 Ask me about **Python, Javascript and Data Science**
 
-📫 How to reach me ***sandeshyesane@hotmail.com***
+📫 How to reach me ***sandeshyesane996@gmail.com***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
