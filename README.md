@@ -45,12 +45,12 @@
         <br>CSS3
       </a>
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="docker"/>
         <br>Docker
       </a>
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="express"/>
@@ -109,12 +109,12 @@
         <br>Node.js
       </a>
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="https://opencv.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="opencv"/>
         <br>OpenCV
       </a>
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas"/>
@@ -135,11 +135,11 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="pytorch"/>
         <br>PyTorch
-      </a>
+      </a> -->
     </td>
     <td align="center" width="96">
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -147,12 +147,12 @@
         <br>React
       </a>
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="https://redis.io" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="redis"/>
         <br>Redis
       </a>
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="scikit_learn"/>
