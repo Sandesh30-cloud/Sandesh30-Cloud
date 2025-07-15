@@ -75,12 +75,6 @@
 </p>
 
 ---
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sandesh30-cloud/Sandesh30-cloud/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
 
 <p align="center">
   <em>"Stay humble. Learn always." 🚀</em>
