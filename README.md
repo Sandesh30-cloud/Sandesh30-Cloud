@@ -2,10 +2,10 @@
 <h1 align="center">Hey 👋, I'm Sandesh</h1>
 
 <p align="center">
-  <b>A passionate Full Stack Developer and Data Science enthusiast from India 🇮🇳</b><br>
+  <b>A passionate Software Engineer from India 🇮🇳</b><br>
   <em>Final Year <strong>Computer Engineering</strong> Student at University of Mumbai</em><br>
-  <em>📚 Currently exploring <strong>Data Science</strong> and <strong>MERN</strong></em><br>
-  <em>🧠 Ask me about <strong>Python, JavaScript, and Data Science</strong></em><br>
+  <em>📚 Currently exploring <strong>Machine Learning</strong> and <strong>MERN</strong></em><br>
+  <em>🧠 Ask me about <strong>Python, JavaScript, SQL</strong></em><br>
   📫 Reach me at: <a href="mailto:sandeshyesane@hotmail.com">sandeshyesane@hotmail.com</a>
 </p>
 
