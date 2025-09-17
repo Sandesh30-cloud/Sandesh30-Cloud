@@ -70,12 +70,6 @@
 
 [![Sandesh30-cloud's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sandesh30-cloud&theme=github-compact&color=16a34a&line=16a34a&point=16a34a&area=true&area_color=16a34a)](https://github.com/Sandesh30-cloud)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandesh30-cloud&show_icons=true&theme=tokyonight" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandesh30-cloud&layout=compact&theme=tokyonight" height="170px"/>
-</p>
 
 ---
 
