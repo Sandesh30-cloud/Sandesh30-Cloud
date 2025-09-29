@@ -3,7 +3,7 @@
 
 <p align="center">
   <b>A passionate Software Engineer from India 🇮🇳</b><br>
-  <em>📚 Currently exploring <strong>Machine Learning</strong> and <strong>MERN</strong></em><br>
+  <em>📚 Currently exploring <strong>Machine Learning</strong>, <strong>Financial Markets</strong> and <strong>MERN</strong></em><br>
   <em>🧠 Ask me about <strong>Python, JavaScript, SQL</strong></em><br>
   📫 Reach me at: <a href="mailto:sandeshyesane@hotmail.com">sandeshyesane@hotmail.com</a>
 </p>
