@@ -12,7 +12,7 @@
   
 [![Profile Views](https://komarev.com/ghpvc/?username=Sandesh30-cloud&label=Profile%20Views&color=00d4ff&style=for-the-badge)](https://github.com/Sandesh30-cloud)
 [![GitHub followers](https://img.shields.io/github/followers/Sandesh30-cloud?style=for-the-badge&color=00ff88)](https://github.com/Sandesh30-cloud?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/Sandesh30-cloud?style=for-the-badge&color=00d4ff)](https://github.com/Sandesh30-cloud?tab=repositories)
+
 
 </div>
 
@@ -47,7 +47,7 @@ motto: "Stay humble. Learn always." 🚀
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandesh-yesane-644396259/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Lazy_Coder04/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yesanesandesh.in@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)](mailto:sandeshyesane996@gmail.com)
+
 
 </div>
 
@@ -111,21 +111,6 @@ motto: "Stay humble. Learn always." 🚀
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sandesh30-cloud&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandesh30-cloud&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sandesh30-cloud&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-## 💡 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 </div>
 
@@ -180,13 +165,6 @@ graph LR
 
 ---
 
-<div align="center">
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Sandesh30-cloud/Sandesh30-cloud/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
@@ -220,10 +198,4 @@ graph LR
 
 ---
 
-<div align="center">
 
-**💚 Show some love by starring ⭐ some repositories!**
-
-![Visitor Count](https://profile-counter.glitch.me/Sandesh30-cloud/count.svg)
-
-</div>
