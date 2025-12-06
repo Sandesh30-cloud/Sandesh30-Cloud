@@ -138,26 +138,7 @@ motto: "Stay humble. Learn always." 🚀
 
 </details>
 
----
 
-<div align="center">
-
-## 🎯 Current Goals for 2024-2025
-
-</div>
-
-```mermaid
-graph LR
-    A[🎯 Goals] --> B[Master ML/AI]
-    A --> C[Build Trading Bot]
-    A --> D[Contribute to Open Source]
-    A --> E[Learn Cloud Computing]
-    B --> F[Deep Learning]
-    B --> G[NLP Projects]
-    C --> H[Algorithmic Trading]
-    D --> I[50+ Contributions]
-    E --> J[AWS/Azure Certified]
-```
 
 ---
 
