@@ -15,6 +15,12 @@
 
 
 </div>
+<div align="center">
+  
+  ![snake gif](https://github.com/Sandesh30-cloud/Sandesh30-Cloud/blob/output/github-snake-dark.svg)
+  
+</div>
+
 
 ---
 
