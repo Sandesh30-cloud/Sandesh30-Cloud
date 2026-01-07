@@ -38,7 +38,7 @@ current_focus:
   
 education: Bachelor of Computer Engineering
 interests: [Coding, Problem Solving, Finance, Technology]
-currently_learning: [Deep Learning, Algorithmic Trading, Cloud Computing]
+currently_learning: [Automations in Trading, Algorithmic Trading, Cloud Computing]
   
 pronouns: He/Him
 motto: "Stay humble. Learn always." 🚀
