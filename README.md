@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Sandesh
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Financial+Markets+Explorer+%F0%9F%93%88" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%9A%80;Full+Stack+Web+Developer+%F0%9F%92%BB;Machine+Learning+%F0%9F%A7%A0;Financial+Markets+Explorer+%F0%9F%93%88" alt="Typing SVG" />
 
 </div>
 
