@@ -37,8 +37,8 @@ current_focus:
   - MERN Stack Development 💻
   
 education: Bachelor of Computer Engineering
-interests: [Coding, Problem Solving, Finance, Technology]
-currently_learning: [Automations in Trading, Algorithmic Trading, Cloud Computing]
+interests: [Coding, Problem Solving, Finance, Technology, Building intelligent products with web]
+currently_learning: [Go, GenAI]
   
 pronouns: He/Him
 motto: "Stay humble. Learn always." 🚀
@@ -50,7 +50,7 @@ motto: "Stay humble. Learn always." 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandesh-yesane-644396259/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Lazy_Coder04/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yesanesandesh.in@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeshyesane996@gmail.com)
 
 
 </div>
