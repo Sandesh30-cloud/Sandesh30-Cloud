@@ -1,103 +1,170 @@
 <div align="center">
 
-# 👋 Hey, I'm Sandesh
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%9A%80;Full+Stack+Web+Developer+%F0%9F%92%BB;Machine+Learning+%F0%9F%A7%A0;Financial+Markets+Explorer+%F0%9F%93%88" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:00d4ff,100:0a0a0f&height=200&section=header&text=Sandesh%20Yesane&fontSize=60&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Software%20Engineer%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20Finance%20Explorer&descAlignY=75&descSize=16&descColor=00d4ff" width="100%"/>
 
 </div>
 
 <div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=Sandesh30-cloud&label=Profile%20Views&color=00d4ff&style=for-the-badge)](https://github.com/Sandesh30-cloud)
-[![GitHub followers](https://img.shields.io/github/followers/Sandesh30-cloud?style=for-the-badge&color=00ff88)](https://github.com/Sandesh30-cloud?tab=followers)
 
+<a href="https://www.linkedin.com/in/sandesh-yesane-644396259/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:sandeshyesane996@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Lazy_Coder04/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://github.com/Sandesh30-cloud">
+  <img src="https://komarev.com/ghpvc/?username=Sandesh30-cloud&label=Profile+Views&color=00d4ff&style=for-the-badge"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%7C+MERN+Stack;Machine+Learning+%26+AI+Builder;Financial+Markets+%26+Algo+Trading;Currently+Exploring%3A+Go+%26+GenAI" alt="Typing SVG"/>
 
 </div>
-<div align="center">
-  
-  ![snake gif](https://github.com/Sandesh30-cloud/Sandesh30-Cloud/blob/output/github-snake-dark.svg)
-  
-</div>
-
 
 ---
 
-<div align="center">
+## `$ whoami`
 
-## 🚀 About Me
+```typescript
+const sandesh = {
+  name        : "Sandesh Yesane",
+  location    : "Mumbai, India 🇮🇳",
+  education   : "B.E. Computer Engineering",
+  role        : "Software Engineer",
 
-</div>
+  focus: {
+    primary   : ["MERN Stack", "Machine Learning", "GenAI"],
+    exploring : ["Go", "Algorithmic Trading", "LLM Applications"],
+  },
 
-```yaml
-name: Sandesh Yesane
-located_in: Mumbai, India 🇮🇳
-current_focus:
-  - Machine Learning & AI 🤖
-  - Financial Markets Analysis 📊
-  - MERN Stack Development 💻
-  
-education: Bachelor of Computer Engineering
-interests: [Coding, Problem Solving, Finance, Technology, Building intelligent products with web]
-currently_learning: [Go, GenAI]
-  
-pronouns: He/Him
-motto: "Stay humble. Learn always." 🚀
+  philosophy  : "Stay humble. Learn always. 🚀",
+  openTo      : ["Collaborations", "Open Source", "Innovative Projects"],
+};
 ```
 
-<div align="center">
-
-## 💼 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandesh-yesane-644396259/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Lazy_Coder04/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeshyesane996@gmail.com)
-
-
-</div>
-
 ---
 
+## ⚡ Tech Arsenal
+
 <div align="center">
 
-## 🛠️ Tech Stack & Tools
+### 🌐 Frontend & UI
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-### 💻 Full Stack Development
+### 🖥️ Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🧠 Data Science & AI
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### 🧠 Data Science & ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 
 ### 🗄️ Databases & DevOps
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### 🔧 Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### 🔧 Tools & Platforms
+</div>
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+---
+
+## 📊 GitHub at a Glance
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sandesh30-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandesh30-cloud&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=c9d1d9" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sandesh30-cloud&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area_color=00d4ff&custom_title=Contribution%20Activity" />
+
+</div>
+
+---
+
+## 🏆 LeetCode Progress
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Lazy_Coder04?theme=dark&font=JetBrains+Mono&ext=activity&border=0&radius=12)](https://leetcode.com/u/Lazy_Coder04/)
+
+</div>
+
+---
+
+## 🎯 What Drives Me
+
+<table>
+<tr>
+<td width="50%">
+
+**🤖 Machine Learning & AI**
+Exploring intelligent systems, from classical ML algorithms to modern GenAI applications. Fascinated by how data can teach machines to think.
+
+</td>
+<td width="50%">
+
+**📈 Financial Markets**
+Obsessed with the intersection of tech and finance. Building tools that decode market behavior through algorithms and data.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🛠️ Full Stack Engineering**
+Crafting end-to-end products — from pixel-perfect UIs to robust backend systems. MERN stack is home, but always expanding horizons.
+
+</td>
+<td width="50%">
+
+**🧩 Problem Solving**
+Active LeetCoder who believes clean logic beats brute force every time. Complexity fascinates; simplicity is the goal.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌱 Currently Learning
+
+```bash
+$ learning --status
+
+[●] Go              ████████░░  80%   → Systems & Backend Services
+[●] GenAI / LLMs    ██████░░░░  60%   → Building AI-Powered Applications
+[●] Algo Trading    █████░░░░░  50%   → Strategy Backtesting & Automation
+```
+
+---
+
+<div align="center">
+
+![snake gif](https://github.com/Sandesh30-cloud/Sandesh30-Cloud/blob/output/github-snake-dark.svg)
 
 </div>
 
@@ -105,60 +172,7 @@ motto: "Stay humble. Learn always." 🚀
 
 <div align="center">
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sandesh30-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandesh30-cloud&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sandesh30-cloud&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
-</p>
-
-
-</div>
-
----
-
-## 🧩 Fun Facts About Me
-
-<details open>
-<summary><b>🎯 Click to explore!</b></summary>
-<br>
-
-- 🧠 I enjoy solving complex problems with simple, elegant logic
-- 📈 Passionate about financial markets and algorithmic trading strategies
-- 💪 Active problem solver on **LeetCode** - Check out my profile: [@Lazy_Coder04](https://leetcode.com/u/Lazy_Coder04/)
-- 🌟 Always open to collaborating on innovative tech projects
-- 📚 Continuous learner - currently diving deep into ML and finance
-- ☕ Powered by coffee and curiosity
-- 🎮 When not coding, I'm analyzing market trends or learning new technologies
-
-</details>
-
-
-
----
-
-<div align="center">
-
-## 📈 LeetCode Stats
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Lazy_Coder04?theme=dark&font=Noto%20Sans&ext=activity)](https://leetcode.com/u/Lazy_Coder04/)
-
-</div>
-
----
-
-
----
-
-<div align="center">
-
-## 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -166,22 +180,14 @@ motto: "Stay humble. Learn always." 🚀
 
 <div align="center">
 
-## 📫 Get In Touch
+### 📬 Let's Build Something Remarkable
 
-**Let's connect and build something amazing together!**
+*Open to collaborations, interesting ideas, and good conversations.*
 
-📧 **Email:** [yesanesandesh.in@gmail.com](mailto:yesanesandesh.in@gmail.com)  
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sandesh-yesane-644396259/)  
-💻 **LeetCode:** [Lazy_Coder04](https://leetcode.com/u/Lazy_Coder04/)
+**[✉ sandeshyesane996@gmail.com](mailto:sandeshyesane996@gmail.com)** &nbsp;|&nbsp; **[LinkedIn](https://www.linkedin.com/in/sandesh-yesane-644396259/)** &nbsp;|&nbsp; **[LeetCode](https://leetcode.com/u/Lazy_Coder04/)**
 
----
+<br/>
 
-### ⚡ "Stay humble. Learn always." 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:00d4ff&height=100&section=footer&animation=twinkling" width="100%"/>
 
 </div>
-
----
-
-
