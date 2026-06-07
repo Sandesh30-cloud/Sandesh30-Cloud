@@ -31,18 +31,43 @@
 
 ```typescript
 const sandesh = {
-  name        : "Sandesh Yesane",
-  location    : "Mumbai, India 🇮🇳",
-  education   : "B.E. Computer Engineering",
-  role        : "Software Engineer",
+  name: "Sandesh Yesane",
 
-  focus: {
-    primary   : ["MERN Stack", "Machine Learning", "GenAI"],
-    exploring : ["Go", "Algorithmic Trading", "LLM Applications"],
-  },
+  role: "Software Engineer | AI Engineer",
 
-  philosophy  : "Stay humble. Learn always. 🚀",
-  openTo      : ["Collaborations", "Open Source", "Innovative Projects"],
+  education: "B.E. Computer Engineering",
+
+  interests: [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Generative AI",
+    "Backend Engineering",
+    "Data Science"
+  ],
+
+  currentlyBuilding: [
+    "LLM Applications",
+    "RAG Pipelines",
+    "AI-Powered Products",
+    "Full Stack Systems"
+  ],
+
+  solving: "350+ LeetCode Problems",
+
+  exploring: [
+    "Agentic AI",
+    "System Design",
+    "Cybersecurity",
+    "Embedded Systems",
+    "Quantitative Finance"
+  ],
+
+  openTo: [
+    "Software Engineering Roles",
+    "AI/ML Roles",
+    "Open Source",
+    "Freelance Projects"
+  ]
 };
 ```
 
@@ -51,6 +76,12 @@ const sandesh = {
 ## ⚡ Tech Arsenal
 
 <div align="center">
+
+### 🤖 AI & GenAI
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Pipelines-blue?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-Applications-green?style=flat-square)
 
 ### 🌐 Frontend & UI
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
