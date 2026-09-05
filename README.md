@@ -140,13 +140,14 @@ A **FastAPI + Next.js** platform with SMA20/50 trend analysis, Buy/Sell/Hold sig
 **🎓 Certifications**
 
 - IBM Data Fundamentals Credential
-- Udemy – Data Science, Machine Learning & NLP
+- Data Science, Machine Learning & NLP
+- AWS Cloud Essentials
 
 </td>
 </tr>
 </table>
 
-> 📌 *Link your project repos directly on their names once pinned/uploaded to GitHub.*
+>
 
 ---
 
