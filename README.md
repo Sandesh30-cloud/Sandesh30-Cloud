@@ -130,8 +130,16 @@ system_design   █████░░░░░  50%
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sandesh30-cloud&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&bg_color=ffffff&title_color=0f172a&icon_color=475569&text_color=334155" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandesh30-cloud&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0f172a&text_color=334155" />
+![Followers](https://img.shields.io/github/followers/Sandesh30-cloud?style=flat-square&label=Followers&labelColor=0f172a&color=475569)
+![Stars](https://img.shields.io/github/stars/Sandesh30-cloud?style=flat-square&label=Stars&labelColor=0f172a&color=475569&affiliations=OWNER)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Sandesh30-cloud&label=Repos&query=public_repos&style=flat-square&labelColor=0f172a&color=475569)
+
+<!--
+Optional: for a richer stats card, self-host github-readme-stats on your own
+Vercel account (the shared public demo is currently unreliable / rate-limited),
+then swap in:
+<img src="https://YOUR-DEPLOYMENT.vercel.app/api?username=Sandesh30-cloud&show_icons=true" />
+-->
 
 </div>
 
