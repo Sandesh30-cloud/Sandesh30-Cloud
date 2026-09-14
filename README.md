@@ -126,6 +126,16 @@ system_design   █████░░░░░  50%
 
 <br/>
 
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sandesh30-cloud/Sandesh30-cloud/output/github-snake-dark.svg" width="100%" />
+
+</div>
+
+<br/>
+
 ## GitHub Activity
 
 <div align="center">
