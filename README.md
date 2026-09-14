@@ -88,11 +88,15 @@ FastAPI and Next.js platform with SMA20/50 trend analysis, buy/sell/hold signal 
 
 ```python
 skills = {
-    "ai_generative": ["LangChain", "RAG Pipelines", "Hugging Face", "Pinecone", "ChromaDB", "LlamaIndex"],
-    "machine_learning": ["TensorFlow", "Keras", "scikit-learn", "Pandas", "NumPy"],
-    "frontend": ["HTML5", "CSS3", "JavaScript", "TypeScript", "Next.js"],
-    "backend": ["Node.js", "Express.js", "Python", "FastAPI"],
-    "data_devops": ["MongoDB", "Firebase", "Docker", "Git", "Power BI"],
+    "languages": ["Python", "SQL", "JavaScript", "TypeScript", "C"],
+    "ai_generative": ["LangChain", "LangGraph", "RAG Pipelines", "Prompt Engineering", "Hugging Face",
+                       "Pinecone", "ChromaDB", "LlamaIndex", "LLM Fine-Tuning", "Agents & Tool Use"],
+    "machine_learning": ["TensorFlow", "Keras", "scikit-learn", "Pandas", "NumPy", "matplotlib",
+                          "Deep Learning", "NLP", "Time-Series Analysis", "Feature Engineering", "EDA"],
+    "frontend": ["HTML5", "CSS3", "Next.js", "React.js"],
+    "backend": ["Node.js", "Express.js", "FastAPI", "Flask"],
+    "cloud_devops_db": ["AWS", "Google Cloud", "Docker", "Kubernetes", "CI/CD",
+                         "MongoDB", "MySQL", "Firebase", "Git", "Power BI"],
 }
 ```
 
@@ -105,7 +109,7 @@ skills = {
 <td valign="top" width="50%">
 
 **Certifications**
-- IBM Data Fundamentals Credential
+- IBM Data Fundamentals
 - Data Science, Machine Learning & NLP
 - AWS Cloud Essentials
 
