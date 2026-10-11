@@ -32,62 +32,7 @@
 
 ---
 
-## ⟦ 02 ⟧ ACTIVE MODULES // PROJECTS
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🌊 AquaSense Edge
-`IoT · Aquaculture Monitoring`
-
-ESP32 + Raspberry Pi tracking **5+ aquaculture parameters** with local storage and a live dashboard.
-
-- ⚡ AprilTag-based fish-length estimation (**−70% calibration**)
-- 🧠 RNN pipeline for early anomaly detection
-
-![ESP32](https://img.shields.io/badge/ESP32-00f5ff?style=flat-square&labelColor=0f0c29)
-![RaspberryPi](https://img.shields.io/badge/Raspberry_Pi-ff2d95?style=flat-square&labelColor=0f0c29)
-![RNN](https://img.shields.io/badge/RNN-b829ff?style=flat-square&labelColor=0f0c29)
-![CV](https://img.shields.io/badge/Computer_Vision-39ff14?style=flat-square&labelColor=0f0c29)
-
-</td>
-<td width="33%" valign="top">
-
-### 🤖 AgenticResearch
-`Autonomous AI Research Tool`
-
-LangChain multi-agent pipeline:
-
-`Search → Reader → Writer → Critic`
-
-Tavily search, BeautifulSoup extraction, Streamlit dashboard, downloadable research reports.
-
-![LangChain](https://img.shields.io/badge/LangChain-00f5ff?style=flat-square&labelColor=0f0c29)
-![Tavily](https://img.shields.io/badge/Tavily-ff2d95?style=flat-square&labelColor=0f0c29)
-![Streamlit](https://img.shields.io/badge/Streamlit-b829ff?style=flat-square&labelColor=0f0c29)
-![MultiAgent](https://img.shields.io/badge/Multi--Agent-39ff14?style=flat-square&labelColor=0f0c29)
-
-</td>
-<td width="33%" valign="top">
-
-### 📈 StockAnalyzer
-`Stock Comparison & Analysis`
-
-FastAPI + Next.js platform with **SMA20/50** trend analysis, buy/sell/hold signals, news sentiment, and a Python backtesting module (returns, max drawdown, win rate).
-
-![FastAPI](https://img.shields.io/badge/FastAPI-00f5ff?style=flat-square&labelColor=0f0c29)
-![Next.js](https://img.shields.io/badge/Next.js-ff2d95?style=flat-square&labelColor=0f0c29)
-![Backtesting](https://img.shields.io/badge/Backtesting-b829ff?style=flat-square&labelColor=0f0c29)
-![NLP](https://img.shields.io/badge/NLP-39ff14?style=flat-square&labelColor=0f0c29)
-
-</td>
-</tr>
-</table>
-
----
-
-## ⟦ 03 ⟧ TECH ARSENAL
+## ⟦ 02 ⟧ TECH ARSENAL
 
 <div align="center">
 
@@ -153,7 +98,7 @@ FastAPI + Next.js platform with **SMA20/50** trend analysis, buy/sell/hold signa
 
 ---
 
-## ⟦ 04 ⟧ NEURAL TRAINING STATUS
+## ⟦ 03 ⟧ NEURAL TRAINING STATUS
 
 ```text
  AGENTIC_AI      ▐███████████████░░░░░▌  70%
@@ -165,7 +110,7 @@ FastAPI + Next.js platform with **SMA20/50** trend analysis, buy/sell/hold signa
 
 ---
 
-## ⟦ 05 ⟧ 3D CONTRIBUTION GRID
+## ⟦ 04 ⟧ 3D CONTRIBUTION GRID
 
 <div align="center">
 
@@ -175,7 +120,7 @@ FastAPI + Next.js platform with **SMA20/50** trend analysis, buy/sell/hold signa
 
 ---
 
-## ⟦ 06 ⟧ GITHUB TELEMETRY
+## ⟦ 05 ⟧ GITHUB TELEMETRY
 
 <div align="center">
 
@@ -188,7 +133,7 @@ FastAPI + Next.js platform with **SMA20/50** trend analysis, buy/sell/hold signa
 
 ---
 
-## ⟦ 07 ⟧ DEPLOYMENT PIPELINE
+## ⟦ 06 ⟧ DEPLOYMENT PIPELINE
 
 ```mermaid
 flowchart LR
@@ -210,7 +155,7 @@ flowchart LR
 
 ---
 
-## ⟦ 08 ⟧ OPEN COMMS CHANNEL
+## ⟦ 07 ⟧ OPEN COMMS CHANNEL
 
 <div align="center">
 
