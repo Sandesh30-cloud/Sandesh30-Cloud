@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/ai-header.svg" width="100%" alt="AI system workflow: Data, Preprocess, Train, Evaluate, Deploy, Monitor"/>
+<img src="./ai-header.svg" width="100%" alt="AI system workflow: Data, Preprocess, Train, Evaluate, Deploy, Monitor"/>
 
 <a href="https://github.com/Sandesh30-cloud">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=%3E+Booting+neural+interface...;%3E+Building+Agentic+AI+systems;%3E+RAG+%7C+LangChain+%7C+Multi-Agent;%3E+IoT+%2B+Embedded+%2B+Full+Stack;%3E+Ready+to+ship+the+future." alt="typing"/>
